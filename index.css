@@ -1,0 +1,167 @@
+.our
+{
+    font-weight: bolder;
+    text-decoration:  underline black;
+    font-size: xx-large;
+    background: linear-gradient(to right, red,green,green,yellow);
+    text-align: center;
+}
+.li
+{
+    border: 2px solid red;
+    background-color: slategrey;
+    border-radius: 10px;
+    text-align: center;
+    height: 75px;
+    width: 800px;
+    border-bottom-left-radius: 8px;
+    margin-left: 260px;
+    
+}
+.parent
+{
+border: green 1px solid;
+background-color: deepskyblue;
+border-radius: 10px;
+width: 1320px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin-left: 15px;
+
+}
+.child
+{
+    border: 1px solid green;
+    background-color: cyan;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 0px 10px 0px 35px;
+    
+
+
+}
+.child1
+{
+   margin-right: 37px;
+}
+.body
+{
+    background: linear-gradient(to right,red,yellow,yellow,red);
+    font-weight: bolder;
+    text-decoration: red underline;
+    height: 30px;
+    text-align: center;
+}
+.parent1
+{
+    border:green 2px solid;
+    background:radial-gradient(blue,rgb(3, 250, 3));
+}
+.child2
+{
+    background: #ffff00;
+    border: brown solid 2px;
+    border-radius: 10px;
+    margin: 60px;
+    text-align: center;
+    text-decoration:brown  underline;
+    font-weight: bolder;
+    color:brown;
+    line-height: 30px;
+    display: inline-block;
+    width: 200px;
+
+}
+.ele
+{
+    font-weight: bolder;
+    border: red 2px solid;
+    color: white;
+    background: red;
+    font-size: larger;
+    letter-spacing: 2px;
+    text-align: center;
+    height: 30px;
+    width: 1400px;
+
+}
+.parent2
+{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    position: relative;
+
+}
+.box
+{
+    color: #ffffff;
+    font-size: x-large;
+    font-weight: bolder;
+    background-color: lime;
+    margin-top: 20px;
+    
+}
+.box1
+{
+    color: white;
+    font-size:x-large ;
+    font-weight: bolder;
+    background-color: royalblue;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.box2
+{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    background-color: mediumblue;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.block
+{
+    display: inline-block;
+    width: 380px;
+}
+.box3
+{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    background-color: orange;
+    padding: 5px;
+    margin-top: 20px;
+    height: 100px;
+    width: 1170px;
+}
+.best
+{
+    background-color: darkturquoise;
+    margin-top: 20px;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 1400px;
+    text-align: center;
+}
+.ol
+{
+    color: white;
+    background-color: black;
+    position: absolute;
+    right: 0px;
+    top: 50px;
+    width: 129px;
+    margin-top: 4px;
+}
+
+
+
+
